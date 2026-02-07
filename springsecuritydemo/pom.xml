@@ -8,7 +8,7 @@
 		<version>3.5.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>tech.buildrun</groupId>
+	<groupId>matalvesdev</groupId>
 	<artifactId>springsecuritydemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springsecuritydemo</name>
