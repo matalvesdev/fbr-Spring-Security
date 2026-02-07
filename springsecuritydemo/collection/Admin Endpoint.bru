@@ -1,0 +1,16 @@
+meta {
+  name: Admin Endpoint
+  type: http
+  seq: 2
+}
+
+get {
+  url: http://localhost:8080/api/admin
+  body: none
+  auth: basic
+}
+
+auth:basic {
+  username: regular
+  password: 123
+}
